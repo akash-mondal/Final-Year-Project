@@ -1,4 +1,4 @@
-# NYC UHI Analysis Tool 
+# UHI Analysis Tool 
 
 Analyze Urban Heat Island (UHI) effects across NYC using a combination of local sensor data, weather station information, and Sentinel-2 satellite imagery. This Streamlit application provides interactive visualizations and AI-powered analysis to understand local heat conditions and potential mitigation strategies.
 
